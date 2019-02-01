@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnySoftKeyboardPrefs version="1">
+    <pref>
+        <value locale="en"/>
+        <pref>
+            <value freq="128"/>
+            <value word="TODOaddYourUserWordsFromAnySoftKeyboardBackup"/>
+        </pref>
+    </pref>
+    <pref>
+        <value locale="cs"/>
+        <pref>
+            <value freq="128"/>
+            <value word="aaaaaaaaargh"/>
+        </pref>
+        <pref>
+            <value freq="128"/>
+            <value word="meruňkovými"/>
+        </pref>
+    </pref>
+</AnySoftKeyboardPrefs>
