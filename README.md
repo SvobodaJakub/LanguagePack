@@ -1,3 +1,13 @@
+# AnySoftKeyboard Huge Czech Dictionary
+
+* sources: [branch Czech_huge_dict_SvobodaJakub_190201](https://github.com/SvobodaJakub/LanguagePack/tree/Czech_huge_dict_SvobodaJakub_190201)
+* apk: [branch Czech_huge_dict_SvobodaJakub_190201/release/ASKLangPack-czech-283-release_jsvoboda_huge_190201.apk](https://github.com/SvobodaJakub/LanguagePack/blob/Czech_huge_dict_SvobodaJakub_190201/release/ASKLangPack-czech-283-release_jsvoboda_huge_190201.apk)
+* list of changes to the upstream Czech language pack: [diff between origin:Czech and SvobodaJakub:Czech_huge_dict_SvobodaJakub_190201](https://github.com/AnySoftKeyboard/LanguagePack/compare/Czech...SvobodaJakub:Czech_huge_dict_SvobodaJakub_190201)
+* dictionary data license: [GPL - see dictionary/LICENSE](https://github.com/SvobodaJakub/LanguagePack/blob/Czech_huge_dict_SvobodaJakub_190201/dictionary/LICENSE)
+
+
+----
+
 # AnySoftKeyboard Language Packs
 `master` latest build: [![CircleCI](https://circleci.com/gh/AnySoftKeyboard/LanguagePack/tree/master.svg?style=svg)](https://circleci.com/gh/AnySoftKeyboard/LanguagePack/tree/master)<br/>
 <br/>
